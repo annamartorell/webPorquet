@@ -1,0 +1,69 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.imgLogo {
+    width: 80px;
+    margin-top: 20px;
+}
+
+.linea {
+    width: 100%;
+    height: 10px;
+    background-color: #98CFB6;
+    margin-top: 20px;
+}
+
+.video {
+    margin-top: 20px;
+}
+
+.text {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.7;
+}
+
+.imgDibuixos {
+    width: 100%;
+}
+
+.textProces {
+    background-color: #F3F1F0;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 0.875em;
+}
+.resultat{
+    margin-top: 20px;
+}
+.textCodi {
+    background-color: #F3F1F0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 50px;
+    font-size: 0.875em;
+}
+
+.imgCerditos {
+    width: 100%;;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.imgCodi {
+    width: 100%;
+}
+
+.espaiCodi {
+    margin-top: 40px;
+}
+
+.link {
+    background-color: pink;
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
